@@ -49,12 +49,4 @@ class AppDependency: NSObject {
         
         Database.database().isPersistenceEnabled = true
     }
-    
-    
-
-    
-
-
-    
-  
 }
